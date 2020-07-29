@@ -1,16 +1,26 @@
-### Hi there 👋
+# Character sheet
+```
+{
+    "Name": "Robert",  
+    "Level": 19,  
+    "Class": "Computer Engineering Student",
+    "Special-skills" : [
+        "Searching stuff on internet",
+        "Breaking linux distros",
+        "Reinventing the wheel just to break it later"
+    ]
+} 
+```
+## Stats
 
-<!--
-**q1e123/q1e123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=q1e123&show_icons=true&include_all_commits=true&theme=dark" alt="Anurag's github stats" />
+</a>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=q1e123&layout=compact&theme=dark" />
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently working on
+  * [A tool to help psychologists with their administrative work](https://github.com/q1e123/Smart-Psychologist)
+  * A network monitor
