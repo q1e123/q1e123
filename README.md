@@ -2,12 +2,18 @@
 ```
 {
     "Name": "Robert",  
-    "Level": 19,  
-    "Class": "Computer Engineering Student",
+    "Level": 20,  
+    "Location: "https://robertnicolaesolca.tk/"
+    "Class": [
+        "Computer Engineering Student",
+        "IT Unicorn @ CJRAE Brasov",
+        "Software development intern @ Siemens CT",
+        "Debater"
+    ],
     "Special-skills" : [
         "Searching stuff on internet",
-        "Breaking linux distros",
-        "Reinventing the wheel just to break it later"
+        "Reinventing the wheel just to break it later",
+        "Showing that everyone, including himself, is wrong"
     ]
 } 
 ```
