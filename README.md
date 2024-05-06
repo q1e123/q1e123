@@ -2,12 +2,10 @@
 ```
 {
     "Name": "Robert",  
-    "Level": 21,  
-    "Location: "https://robertnicolaesolca.tk/"
+    "Level": 23,  
     "Class": [
-        "Computer Engineering Student",
-        "IT Unicorn @ CJRAE Brasov",
-        "Software development intern @ Siemens CT",
+        "Cyber Security Student",
+        "Research Engineer @ Siemens",
         "Debater"
     ],
     "Special-skills" : [
